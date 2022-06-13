@@ -92,7 +92,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -798,14 +798,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
     `
@@ -864,8 +856,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : 
+Recode : 
 `
 }
 exports.tos = (ownernomer) => {
@@ -1476,14 +1468,6 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
 `
