@@ -6,9 +6,9 @@ global.APIs = {
 	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
-// Free apikey
+// Free apikey '7oLa62wq'
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': '7oLa62wq',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'MOk4rpm3',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
