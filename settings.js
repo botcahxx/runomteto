@@ -19,7 +19,7 @@ global.available = true //status online (online)
 
 // Other
 global.botname = "BOTCAHX" //namabot kalian
-global.ownername= "Tio" //nama kalian
+global.ownername= "HengkerWibuTzy" //nama kalian
 global.myweb ="myblogxyz.netlify.com" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCCyEu6Ui3JmTON1P8BQydsA" //bebas asal jan hapus
 global.github = "https://github.com/BOTCAHX" //bebas
